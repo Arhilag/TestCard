@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb37639e83e072c49992eb82017002ee, type: 3}
+  m_Name: CardsPool
+  m_EditorClassIdentifier: 
+  CardConfigs:
+  - {fileID: 11400000, guid: 09b0d471906bb7f47946852358061593, type: 2}
+  - {fileID: 11400000, guid: 2d1f2099b82248b4592ec037576d216a, type: 2}
+  - {fileID: 11400000, guid: 17e7ad31fd5d05c408b42bcb19a02931, type: 2}
+  - {fileID: 11400000, guid: b1e6f6bfb26f7064c9b8e36a77282ad6, type: 2}
